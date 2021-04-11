@@ -1,4 +1,4 @@
-const homeUrl = 'http://localhost:3000';
+const homeUrl = 'https://andrebackendtest.azurewebsites.net';
 
 window.env = {
   REACT_APP_ENV: 'Development',
